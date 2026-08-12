@@ -74,6 +74,44 @@ Python • FastAPI • PostgreSQL • JavaScript • HTML5 • CSS3 • Tailwind
 
 ---
 
+## 🛠️ Stack & Ferramentas
+
+### Backend
+
+`Python` `Django` `Django REST Framework` `FastAPI`
+
+### Banco de Dados
+
+`PostgreSQL` `SQL` `Neon`
+
+### Frontend
+
+`JavaScript` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+
+### Ferramentas
+
+`Git` `GitHub` `Postman` `VS Code`
+
+### Outros
+
+`JWT` `Fetch API` `Chart.js` `OpenPyXL`
+
+## 📚 Atualmente estudando
+
+- Arquitetura de aplicações Back-end
+- Testes automatizados com Python
+- Boas práticas de desenvolvimento e Clean Code
+- Desenvolvimento e consumo de APIs REST
+- Aprimoramento de Django e FastAPI
+
+- ---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Almir%20Tavares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almir-tavares/)
+[![GitHub](https://img.shields.io/badge/GitHub-Almir--07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Almir-07)
+[![Email](https://img.shields.io/badge/Email-almirfilho148@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:almirfilho148@gmail.com)
+
 
 <!--
 **Almir-07/Almir-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
